@@ -1,6 +1,6 @@
 # La Gaceta de la Soberanía C2C
 
-Edición interactiva autocontenida de La Gaceta. La portada incorpora fotografía editorial en base64 dentro del propio HTML; los diagramas y herramientas interactivas forman parte del documento.
+Edición interactiva autocontenida de La Gaceta. La portada incorpora tres fotografías editoriales en base64 dentro del propio HTML; los diagramas y herramientas interactivas forman parte del documento.
 
 ## Publicación con GitHub Pages
 
